@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Mirror-Test-0.1";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/ClaimTheCity.loader.js",
+    "Build/ClaimTheCity.framework.js",
+    "Build/ClaimTheCity.data",
+    "Build/ClaimTheCity.wasm",
     "TemplateData/style.css"
 
 ];
